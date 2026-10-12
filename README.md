@@ -2,7 +2,6 @@
 
 - Completed **CS50X** (Harvard's Intro to Computer Science)
 - Completed **CS50P** (Harvard's Intro to Programming with Python)
-- I want to become a CS professional
 
 ## What I know so far
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
