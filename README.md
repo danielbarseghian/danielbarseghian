@@ -3,9 +3,9 @@
 - Completed **CS50X** (Harvard's Intro to Computer Science)
 - Completed **CS50P** (Harvard's Intro to Programming with Python)
 - I want to become a CS professional
-- Looking forward into cybersecurity
 
 ## What I know so far
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![RegEx](https://img.shields.io/badge/Regular_Expressions-430098?style=flat&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-007396?style=flat&logoColor=white)
@@ -18,6 +18,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms_&_Data_Structures-FF6F00?style=flat&logoColor=white)
+
+## Hackatons
+  [**Stardance**](https://stardance.hackclub.com/@barseghian_daniel/projects) - Hack Club online hackathon building and shipping projects
 
 
 ## My GitHub Stats
