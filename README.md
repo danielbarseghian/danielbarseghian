@@ -26,5 +26,9 @@ I'm trying to get better at rust
 ## Hackatons
   [**Stardance**](https://stardance.hackclub.com/@barseghian_daniel/projects) - Hack Club online hackathon building and shipping projects
 
+## Certificate 
+  [**CS50P**](https://cs50.harvard.edu/certificates/1e4a92e2-b941-4c9f-9f38-66525a536ce5)
+  [**CS50X**](https://cs50.harvard.edu/certificates/5380cd8c-d1d5-44ad-940a-f0afab2e1b25)
+
 ## My GitHub Stats
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielbarseghian&show_icons=true&theme=tokyonight)
