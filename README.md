@@ -27,7 +27,7 @@ I use Debian as my OS but I want to exploring other operating systems soon!
 ## What I am learning
 I'm trying to get better at rust
 
-#### Projects
+### Projects
   * [**File organizer**](https://github.com/danielbarseghian/organize-file) - A program that organizer files into folder depending on the extension!
 
 ## Hackatons
