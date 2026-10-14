@@ -20,7 +20,7 @@ I use Debian as my OS but I want to exploring other operating systems soon!
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ## My Best Projects
-  * [**file compressor**](https://github.com/danielbarseghian/file-compressor) - a file compressor using huffman code written in C.
+  * [**File Compressor**](https://github.com/danielbarseghian/file-compressor) - a file compressor using huffman code written in C.
   * [**Kill the Monkey**](https://github.com/danielbarseghian/Kill-The-Monkey) - a stupid game i made in Unity about killing a monkey, but i really had fun with it!
   * [**Virus-Total-Extension**](https://github.com/danielbarseghian/Virus-total-extension) - An extension i made with the virus total API, its out on firefox add-on store!
 
