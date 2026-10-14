@@ -7,6 +7,7 @@
 I love low level programming but i want to discover more with other languages!
 My favorite language is C.
 I use Debian as my OS but I want to exploring other operating systems soon!
+Its only by doing that you will learn.
 
 ## What I know so far
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
